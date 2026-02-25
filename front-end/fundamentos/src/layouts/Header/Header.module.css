@@ -1,0 +1,12 @@
+.header {
+    background-color: #1e90ff;
+    color: var(--text-color);
+    padding: 20px;
+    text-align: center;
+
+    .title {
+        font-size: 64px;
+        font-family: "Inter", sans-serif;
+}
+}
+

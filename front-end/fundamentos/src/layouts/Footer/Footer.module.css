@@ -1,0 +1,14 @@
+.footer{
+    background-color: skyblue;
+    color: var(--text-color);
+    padding: 20px;
+    text-align: center;
+
+    p{
+        color: black;
+    }
+    a{
+        text-decoration: none;
+        color: black;
+    }
+}
